@@ -1,0 +1,14 @@
+HTTrack3.49-2 launched on Fri, 28 Feb 2020 22:24:47 at https://misp.iiita.ac.in/
+(winhttrack https://misp.iiita.ac.in/ -W -O "/home/thenullterminator/websites/MISP" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:26:05	Warning: 	File not parsed, looks like binary: https://misp.iiita.ac.in/fonts/fontawesome-webfont.woff2?v=4.5.0
+22:26:05	Warning: 	File not parsed, looks like binary: https://misp.iiita.ac.in/fonts/glyphicons-halflings-regular.woff2
+22:26:05	Error: 	"Not Found" (404) at link https://misp.iiita.ac.in/index1.html (from https://misp.iiita.ac.in/committee.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 18 seconds : 74 links scanned, 72 files written (4308800 bytes overall) [4329498 bytes received at 55506 bytes/sec], 7.4 requests per connection
+(1 errors, 2 warnings, 0 messages)
