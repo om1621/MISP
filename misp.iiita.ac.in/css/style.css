@@ -54,6 +54,10 @@ font-family: 'Roboto', sans-serif;
     padding: 0;
 }
 
+body{
+    scroll-behavior: smooth;
+}
+
 .alignleft {
     float: left;
     margin-right: 15px
@@ -1868,3 +1872,20 @@ ul.entry-meta {
 }
 
 /* CSS Document */
+
+@media screen and (min-width: 992px)
+{
+    .chief
+    {
+        margin-left: 33.33%;
+    }
+}
+
+.topic ul li
+{
+    text-align: left;
+    margin-left: 5%;
+    font-size: 20px;
+    margin-top: 10px;
+    list-style: circle;
+}
